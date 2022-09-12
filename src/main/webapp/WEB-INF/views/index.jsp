@@ -8,7 +8,7 @@
     <h1>Have a nice day.</h1>
     <h2> jsyang Fighitng !!</h2>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 4.0</h3>
+    <h3>Version: 5.0</h3>
     <h2> I Can Do it </h2>
     <h2> Good Man !</h2>
 </body>
